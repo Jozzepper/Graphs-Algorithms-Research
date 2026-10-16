@@ -1,0 +1,21 @@
+# Артефакты сборки
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.lib
+*.a
+build/
+cmake-build-*/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Системный мусор
+Thumbs.db
+.DS_Store
